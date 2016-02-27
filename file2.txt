@@ -3,3 +3,4 @@ fix 1
 fix 2
 hello world
 line 1
+line 2
