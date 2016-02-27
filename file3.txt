@@ -1,1 +1,2 @@
 this is content of file 3
+user 2 has done some changes here
