@@ -1,2 +1,2 @@
 this is content for file#2
-conflict line #2
+There is no conflict any more
