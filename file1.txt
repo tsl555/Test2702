@@ -1,2 +1,2 @@
-this is content of file#1
-mod1
+and return it again
+The new implementation by #1
