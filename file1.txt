@@ -1,1 +1,2 @@
-I broke this file
+and return it again
+The new implementation by #1
