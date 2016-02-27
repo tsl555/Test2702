@@ -1,3 +1,1 @@
-this is content for file#2
-There is no conflict any more
-mod2
+new implementation by #2
