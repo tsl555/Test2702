@@ -1,1 +1,2 @@
 this is content for file#2
+I expect the conflict here
